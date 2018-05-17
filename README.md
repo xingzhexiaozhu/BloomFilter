@@ -1,5 +1,5 @@
 # Bloom Filter
-总结了Bloom Filter的go实现版本、Java实现版本和C实现版本            
+总结Bloom Filter的go实现版本、Java实现版本和C实现版本            
 同时将Bloom Filter的优化版本Cuckoo Filter也总结进来
 
 # 参考的实现：

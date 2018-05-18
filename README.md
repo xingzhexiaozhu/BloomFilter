@@ -3,7 +3,12 @@
 同时将Bloom Filter的优化版本Cuckoo Filter也总结进来
 
 # 参考的实现：
-Bloom Filter(go):	https://github.com/willf/bloom.git         
-Cuckoo Filter(go):	https://github.com/irfansharif/cfilter.git      
-Bloom Filter(Java):	https://github.com/JueFan/BloomFilterTool.git     
-Bloom FilterC():	https://blog.csdn.net/Qregi/article/details/79443499
+Bloom Filter(go):   
+   	https://godoc.org/github.com/willf/bloom
+   	https://github.com/willf/bloom.git         
+Cuckoo Filter(go):	
+   	https://github.com/irfansharif/cfilter.git      
+Bloom Filter(Java):   
+   	https://github.com/JueFan/BloomFilterTool.git     
+Bloom Filter(C):   
+   	https://blog.csdn.net/Qregi/article/details/79443499

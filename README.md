@@ -4,9 +4,9 @@
 
 # 参考的实现：
 Bloom Filter(go):   
-   	https://godoc.org/github.com/willf/bloom
+   	https://godoc.org/github.com/willf/bloom   
    	https://github.com/willf/bloom.git         
-Cuckoo Filter(go):	
+Cuckoo Filter(go):   	
    	https://github.com/irfansharif/cfilter.git      
 Bloom Filter(Java):   
    	https://github.com/JueFan/BloomFilterTool.git     

@@ -1,9 +1,9 @@
 # Filter
-基于bloom filter实现BloomFilterTool工具，该工具功能：
-1、实现业界的去重功能；
-2、版本切换功能（可按时间切换、按阈值切换）；
-3、统计各版本下bloomfilter中已有元素个数；
-用法参考filter_test.go
+基于bloom filter实现BloomFilterTool工具，该工具功能：      
+1、实现业界的去重功能；                       
+2、版本切换功能（可按时间切换、按阈值切换）；          
+3、统计各版本下bloomfilter中已有元素个数；           
+用法参考filter_test.go         
 
 # Bloom Filter
 总结Bloom Filter的go实现版本、Java实现版本和C实现版本            
